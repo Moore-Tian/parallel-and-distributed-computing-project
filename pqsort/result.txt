@@ -1,0 +1,104 @@
+Data size: 1000
+Threads: 1, Time: 1.6 ms
+Speedup: 1
+Sorting is correct.
+
+Threads: 2, Time: 0.4 ms
+Speedup: 4
+Sorting is correct.
+
+Threads: 4, Time: 0.6 ms
+Speedup: 2.66667
+Sorting is correct.
+
+Threads: 8, Time: 0.4 ms
+Speedup: 4
+Sorting is correct.
+
+Threads: 16, Time: 0.6 ms
+Speedup: 2.66667
+Sorting is correct.
+
+Data size: 5000
+Threads: 1, Time: 9.2 ms
+Speedup: 1
+Sorting is correct.
+
+Threads: 2, Time: 5 ms
+Speedup: 1.84
+Sorting is correct.
+
+Threads: 4, Time: 5 ms
+Speedup: 1.84
+Sorting is correct.
+
+Threads: 8, Time: 5 ms
+Speedup: 1.84
+Sorting is correct.
+
+Threads: 16, Time: 5.2 ms
+Speedup: 1.76923
+Sorting is correct.
+
+Data size: 10000
+Threads: 1, Time: 18.2 ms
+Speedup: 1
+Sorting is correct.
+
+Threads: 2, Time: 10.4 ms
+Speedup: 1.75
+Sorting is correct.
+
+Threads: 4, Time: 11.2 ms
+Speedup: 1.625
+Sorting is correct.
+
+Threads: 8, Time: 10.8 ms
+Speedup: 1.68519
+Sorting is correct.
+
+Threads: 16, Time: 10 ms
+Speedup: 1.82
+Sorting is correct.
+
+Data size: 100000
+Threads: 1, Time: 248.2 ms
+Speedup: 1
+Sorting is correct.
+
+Threads: 2, Time: 150.8 ms
+Speedup: 1.64589
+Sorting is correct.
+
+Threads: 4, Time: 149.6 ms
+Speedup: 1.65909
+Sorting is correct.
+
+Threads: 8, Time: 151.4 ms
+Speedup: 1.63937
+Sorting is correct.
+
+Threads: 16, Time: 157.6 ms
+Speedup: 1.57487
+Sorting is correct.
+
+Data size: 500000
+Threads: 1, Time: 1055.8 ms
+Speedup: 1
+Sorting is correct.
+
+Threads: 2, Time: 683.4 ms
+Speedup: 1.54492
+Sorting is correct.
+
+Threads: 4, Time: 685.4 ms
+Speedup: 1.54041
+Sorting is correct.
+
+Threads: 8, Time: 687.8 ms
+Speedup: 1.53504
+Sorting is correct.
+
+Threads: 16, Time: 675.4 ms
+Speedup: 1.56322
+Sorting is correct.
